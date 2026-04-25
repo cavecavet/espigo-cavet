@@ -1,0 +1,32 @@
+{
+  "ultima_actualitzacio": "2026-04-25",
+  "zones": [
+    {
+      "id": "talus-est",
+      "nom": "Talús est",
+      "subzones": [
+        {
+          "id": "te-1",
+          "nom": "Talús est — sector 1",
+          "fotos": [
+            {
+              "data": "2026-04-01",
+              "fitxer": "fotos/talus-est/te-1/2026-04-01.jpg",
+              "peu": "Estat inicial"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap",
+      "nom": "Cap de l'espigó",
+      "subzones": []
+    },
+    {
+      "id": "talus-oest",
+      "nom": "Talús oest",
+      "subzones": []
+    }
+  ]
+}
