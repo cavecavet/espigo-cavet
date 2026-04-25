@@ -51,13 +51,15 @@ function renderCards(subzones) {
   }).join('');
 
   grid.querySelectorAll('.subzone-card').forEach(card => {
-    const handler = () => openModal(subzones.find(sz => sz.id === card.dataset.id));
-    card.addEventListener('click', handler);
-    card.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') handler(); });
+    const handler = (triggerEl) => openModal(subzones.find(sz => sz.id === card.dataset.id), triggerEl);
+    card.addEventListener('click', () => handler(card));
+    card.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') handler(card); });
   });
 }
 
-function openModal(subzone) {
+let _lastFocus = null;
+
+function openModal(subzone, triggerEl) {
   const modal = document.getElementById('modal');
   document.getElementById('modal-title').textContent = subzone.nom;
   const body = document.getElementById('modal-body');
@@ -84,16 +86,35 @@ function openModal(subzone) {
 
   modal.setAttribute('aria-hidden', 'false');
   modal.classList.add('open');
+  _lastFocus = triggerEl ?? null;
+  document.getElementById('modal-close').focus();
 }
 
 function closeModal() {
   const modal = document.getElementById('modal');
   modal.setAttribute('aria-hidden', 'true');
   modal.classList.remove('open');
+  if (_lastFocus) { _lastFocus.focus(); _lastFocus = null; }
 }
 
 async function init() {
-  const data = await fetch('data.json').then(r => r.json());
+  let data;
+  try {
+    const res = await fetch('data.json');
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    data = await res.json();
+  } catch {
+    document.getElementById('cards-grid').innerHTML =
+      '<p class="no-data">Error carregant les dades. Torna-ho a intentar.</p>';
+    return;
+  }
+
+  if (!data.zones?.length) {
+    document.getElementById('cards-grid').innerHTML =
+      '<p class="no-data">Encara no hi ha zones definides.</p>';
+    return;
+  }
+
   let activeZone = data.zones[0].id;
 
   function selectZone(zoneId) {
