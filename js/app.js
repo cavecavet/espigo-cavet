@@ -23,6 +23,25 @@ function renderTabs(zones, activeId, onSelect) {
   );
 }
 
+function attachImageFallbacks(root) {
+  root.querySelectorAll('img').forEach(img => {
+    if (img.dataset.fallbackAttached) return;
+    img.dataset.fallbackAttached = '1';
+    img.addEventListener('error', () => {
+      const fallback = document.createElement('div');
+      fallback.className = 'card-thumb-empty';
+      fallback.textContent = 'Imatge no disponible';
+
+      const slider = img.closest('img-comparison-slider');
+      if (slider) {
+        slider.replaceWith(fallback);
+      } else {
+        img.replaceWith(fallback);
+      }
+    });
+  });
+}
+
 function renderCards(subzones) {
   const grid = document.getElementById('cards-grid');
   if (!subzones.length) {
@@ -49,6 +68,8 @@ function renderCards(subzones) {
       </article>
     `;
   }).join('');
+
+  attachImageFallbacks(grid);
 
   grid.querySelectorAll('.subzone-card').forEach(card => {
     const handler = (triggerEl) => openModal(subzones.find(sz => sz.id === card.dataset.id), triggerEl);
@@ -84,6 +105,7 @@ function openModal(subzone, triggerEl) {
     dateEl.textContent = `${formatDate(first.data)} → ${formatDate(last.data)}`;
   }
 
+  attachImageFallbacks(body);
   modal.setAttribute('aria-hidden', 'false');
   modal.classList.add('open');
   _lastFocus = triggerEl ?? null;
