@@ -1,32 +1,973 @@
 {
-  "ultima_actualitzacio": "2026-04-25",
+  "ultima_actualitzacio": "2026-04-28",
   "zones": [
     {
-      "id": "talus-est",
-      "nom": "Talús est",
+      "id": "cap",
+      "nom": "Cap de l'espigó",
       "subzones": [
         {
-          "id": "te-1",
-          "nom": "Talús est — sector 1",
+          "id": "cap-1",
+          "nom": "Cap de l'espigó",
           "fotos": [
             {
-              "data": "2026-04-01",
-              "fitxer": "fotos/talus-est/te-1/2026-04-01.jpg",
-              "peu": "Estat inicial"
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220028.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220029.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220030.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220031.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220032.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220033.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220034.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220035.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220036.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220037.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220038.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220039.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220040.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220041.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220042.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220043.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220044.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220045.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220046.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220047.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220048.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220049.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220050.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/cap/P4220051.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280002.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280003.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280004.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280005.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280006.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280007.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280008.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280009.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280010.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280011.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280012.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280013.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280014.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280015.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280016.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280017.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280018.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280019.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280020.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280062.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280063.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280064.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280065.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280066.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280067.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280068.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280069.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280070.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280071.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280072.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280073.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280074.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280075.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/P4280076.webp",
+              "peu": ""
             }
           ]
         }
       ]
     },
     {
-      "id": "cap",
-      "nom": "Cap de l'espigó",
-      "subzones": []
+      "id": "talus-est",
+      "nom": "Talús est",
+      "subzones": [
+        {
+          "id": "te-1",
+          "nom": "Talús est",
+          "fotos": [
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220005.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220006.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220007.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220008.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220009.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220010.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220011.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220012.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220013.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220014.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220015.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220016.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220017.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220018.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220019.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220020.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220021.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220022.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220023.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220024.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220025.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220026.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-est/P4220027.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280077.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280078.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280079.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280081.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280082.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280083.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280084.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280085.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280086.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280087.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280088.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280089.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280090.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280091.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280092.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280093.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280094.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280095.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280096.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280097.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280098.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280099.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280101.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280102.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280103.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/P4280104.webp",
+              "peu": ""
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": "talus-oest",
+      "id": "talus-ouest",
       "nom": "Talús oest",
-      "subzones": []
+      "subzones": [
+        {
+          "id": "to-1",
+          "nom": "Talús oest",
+          "fotos": [
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220001.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220002.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220003.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220004.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220052.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220053.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220054.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220055.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220056.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220057.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220058.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220059.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220060.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220061.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220062.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220063.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220064.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220065.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220066.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220067.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220068.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220069.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220070.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220071.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220072.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220073.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220074.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220075.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220076.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220077.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220078.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220079.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220080.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220081.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220082.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220083.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220084.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220085.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220086.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220087.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220088.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220089.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220090.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-22",
+              "fitxer": "fotos/talus-ouest/P4220091.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280033.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280035.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280036.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280037.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280039.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280040.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280041.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280042.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280043.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280044.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280045.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280046.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280047.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280048.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280049.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280050.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280051.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280052.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280053.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280054.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280055.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280056.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280057.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280058.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280060.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-ouest/P4280061.webp",
+              "peu": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fons",
+      "nom": "Fons",
+      "subzones": [
+        {
+          "id": "fons-1",
+          "nom": "Fons",
+          "fotos": [
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/fons/P4280022.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/fons/P4280023.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/fons/P4280025.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/fons/P4280026.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/fons/P4280029.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/fons/P4280030.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/fons/P4280031.webp",
+              "peu": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
