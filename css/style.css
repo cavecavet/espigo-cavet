@@ -290,10 +290,14 @@ body {
   justify-content: center;
 }
 
-.footer-credits span { font-size: 0.78rem; }
+.footer-credits span,
+.footer-update,
+.footer-review {
+  font-size: 0.78rem;
+}
 
 .logo-credit {
-  height: 36px;
+  height: 47px;
   width: auto;
   object-fit: contain;
 }
