@@ -15,7 +15,7 @@ __pycache__/
 /pedres.json
 /guies/
 
-# Documentació de l'eina local (els specs/plans del 2026-06 i el PDF)
+# Documentació de l'eina local (specs/plans del procesador, temporada 2026, i el PDF)
 /docs/disseny-procesador.pdf
-/docs/superpowers/specs/2026-06-*
-/docs/superpowers/plans/2026-06-*
+/docs/superpowers/specs/2026-0[6-9]-*
+/docs/superpowers/plans/2026-0[6-9]-*
