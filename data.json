@@ -1,5 +1,19 @@
 {
   "ultima_actualitzacio": "2026-04-28",
+  "galeria_persones": {
+    "nom": "Persones a l'espigó",
+    "text": "Famílies i infants participant en les sortides d'observació a l'espigó, descobrint la fauna que hi viu. Aquestes imatges mostren la vessant divulgativa i educativa del projecte, complementària al seguiment fotogràfic de les roques.",
+    "fotos": [
+      { "fitxer": "fotos/persones/persones-01.webp" },
+      { "fitxer": "fotos/persones/persones-02.webp" },
+      { "fitxer": "fotos/persones/persones-03.webp" },
+      { "fitxer": "fotos/persones/persones-04.webp" },
+      { "fitxer": "fotos/persones/persones-05.webp" },
+      { "fitxer": "fotos/persones/persones-06.webp" },
+      { "fitxer": "fotos/persones/persones-07.webp" },
+      { "fitxer": "fotos/persones/persones-08.webp" }
+    ]
+  },
   "zones": [
     {
       "id": "cap",

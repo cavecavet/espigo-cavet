@@ -101,6 +101,9 @@ body {
   gap: 1.25rem;
 }
 
+.cards-grid[hidden],
+.persones-view[hidden] { display: none; }
+
 /* Information box under photos */
 .info-box {
   max-width: 960px;
@@ -300,6 +303,51 @@ body {
   height: 47px;
   width: auto;
   object-fit: contain;
+}
+
+/* Galeria de persones */
+.persones-intro {
+  max-width: 720px;
+  margin: 0 auto 1.5rem;
+  color: var(--color-text-light);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  text-align: center;
+}
+
+.persones-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.9rem;
+}
+
+@media (min-width: 540px) {
+  .persones-grid { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (min-width: 800px) {
+  .persones-grid { grid-template-columns: repeat(4, 1fr); }
+}
+
+.persones-thumb {
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  cursor: pointer;
+  transition: transform var(--transition), box-shadow var(--transition);
+}
+
+.persones-thumb:hover,
+.persones-thumb:focus-visible {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.14);
+}
+
+.persones-thumb img {
+  width: 100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  display: block;
 }
 
 .no-data {

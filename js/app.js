@@ -78,7 +78,38 @@ function renderCards(subzones) {
   });
 }
 
+function renderPersonesGallery(galeria) {
+  document.getElementById('persones-intro').textContent = galeria.text || '';
+  const grid = document.getElementById('persones-grid');
+  grid.innerHTML = galeria.fotos.map((foto, i) => `
+    <figure class="persones-thumb" data-index="${i}" tabindex="0" role="button" aria-label="Amplia la imatge">
+      <img src="${foto.fitxer}" alt="${galeria.nom}" loading="lazy" />
+    </figure>
+  `).join('');
+
+  attachImageFallbacks(grid);
+
+  grid.querySelectorAll('.persones-thumb').forEach(thumb => {
+    const handler = () => openPhotoModal(galeria.fotos[thumb.dataset.index].fitxer, galeria.nom, thumb);
+    thumb.addEventListener('click', handler);
+    thumb.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') handler(); });
+  });
+}
+
 let _lastFocus = null;
+
+function openPhotoModal(fitxer, titol, triggerEl) {
+  const modal = document.getElementById('modal');
+  document.getElementById('modal-title').textContent = titol;
+  document.getElementById('modal-body').innerHTML = `<img src="${fitxer}" alt="${titol}" />`;
+  document.getElementById('modal-date').textContent = '';
+
+  attachImageFallbacks(document.getElementById('modal-body'));
+  modal.setAttribute('aria-hidden', 'false');
+  modal.classList.add('open');
+  _lastFocus = triggerEl ?? null;
+  document.getElementById('modal-close').focus();
+}
 
 function openModal(subzone, triggerEl) {
   const modal = document.getElementById('modal');
@@ -137,13 +168,27 @@ async function init() {
     return;
   }
 
+  const galeria = data.galeria_persones;
+  const tabs = galeria
+    ? [...data.zones, { id: 'persones', nom: galeria.nom }]
+    : data.zones;
   let activeZone = data.zones[0].id;
+  let personesRendered = false;
 
   function selectZone(zoneId) {
     activeZone = zoneId;
-    renderTabs(data.zones, activeZone, selectZone);
-    const zone = data.zones.find(z => z.id === zoneId);
-    renderCards(zone.subzones);
+    renderTabs(tabs, activeZone, selectZone);
+
+    const esPersones = zoneId === 'persones';
+    document.getElementById('cards-grid').hidden = esPersones;
+    document.getElementById('persones-view').hidden = !esPersones;
+
+    if (esPersones) {
+      if (!personesRendered) { renderPersonesGallery(galeria); personesRendered = true; }
+    } else {
+      const zone = data.zones.find(z => z.id === zoneId);
+      renderCards(zone.subzones);
+    }
   }
 
   selectZone(activeZone);
