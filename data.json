@@ -6,305 +6,14 @@
       "nom": "Cap de l'espigó",
       "subzones": [
         {
-          "id": "cap-1",
-          "nom": "Cap de l'espigó",
-          "fotos": [
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220028.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220029.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220030.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220031.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220032.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220033.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220034.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220035.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220036.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220037.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220038.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220039.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220040.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220041.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220042.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220043.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220044.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220045.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220046.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220047.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220048.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220049.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220050.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/cap/P4220051.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280002.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280003.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280004.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280005.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280006.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280007.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280008.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280009.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280010.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280011.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280012.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280013.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280014.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280015.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280016.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280017.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280018.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280019.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280020.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280062.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280063.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280064.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280065.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280066.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280067.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280068.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280069.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280070.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280071.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280072.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280073.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280074.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280075.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/cap/P4280076.webp",
-              "peu": ""
-            }
-          ]
-        },
-        {
           "id": "018",
           "nom": "Pedra 018",
           "fotos": [
+            {
+              "data": "2026-04-25",
+              "fitxer": "fotos/cap/018/018_cap_2026-04-25.webp",
+              "peu": ""
+            },
             {
               "data": "2026-06-15",
               "fitxer": "fotos/cap/018/018_cap_2026-06-15.webp",
@@ -317,8 +26,23 @@
           "nom": "Pedra 019",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/cap/019/019_cap_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/019/019_cap_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/cap/019/019_cap_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/cap/019/019_cap_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -328,8 +52,23 @@
           "nom": "Pedra 020",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/cap/020/020_cap_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/020/020_cap_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/cap/020/020_cap_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/cap/020/020_cap_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -339,8 +78,23 @@
           "nom": "Pedra 021",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/cap/021/021_cap_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/021/021_cap_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/cap/021/021_cap_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/cap/021/021_cap_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -350,8 +104,23 @@
           "nom": "Pedra 022",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/cap/022/022_cap_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/022/022_cap_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/cap/022/022_cap_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/cap/022/022_cap_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -361,8 +130,23 @@
           "nom": "Pedra 023",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/cap/023/023_cap_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/023/023_cap_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/cap/023/023_cap_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/cap/023/023_cap_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -372,8 +156,23 @@
           "nom": "Pedra 024",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/cap/024/024_cap_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/024/024_cap_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/cap/024/024_cap_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/cap/024/024_cap_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -383,8 +182,23 @@
           "nom": "Pedra 025",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/cap/025/025_cap_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/025/025_cap_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/cap/025/025_cap_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/cap/025/025_cap_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -394,8 +208,23 @@
           "nom": "Pedra 026",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/cap/026/026_cap_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/026/026_cap_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/cap/026/026_cap_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/cap/026/026_cap_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -405,8 +234,23 @@
           "nom": "Pedra 027",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/cap/027/027_cap_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/027/027_cap_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/cap/027/027_cap_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/cap/027/027_cap_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -416,8 +260,23 @@
           "nom": "Pedra 028",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/cap/028/028_cap_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/028/028_cap_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/cap/028/028_cap_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/cap/028/028_cap_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -427,8 +286,23 @@
           "nom": "Pedra 029",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/cap/029/029_cap_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/029/029_cap_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/cap/029/029_cap_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/cap/029/029_cap_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -438,8 +312,23 @@
           "nom": "Pedra 030",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/cap/030/030_cap_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/030/030_cap_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/cap/030/030_cap_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/cap/030/030_cap_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -448,6 +337,16 @@
           "id": "031",
           "nom": "Pedra 031",
           "fotos": [
+            {
+              "data": "2026-04-25",
+              "fitxer": "fotos/cap/031/031_cap_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/cap/031/031_cap_2026-04-28.webp",
+              "peu": ""
+            },
             {
               "data": "2026-06-15",
               "fitxer": "fotos/cap/031/031_cap_2026-06-15.webp",
@@ -462,260 +361,14 @@
       "nom": "Talús est",
       "subzones": [
         {
-          "id": "te-1",
-          "nom": "Talús est",
-          "fotos": [
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220005.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220006.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220007.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220008.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220009.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220010.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220011.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220012.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220013.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220014.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220015.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220016.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220017.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220018.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220019.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220020.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220021.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220022.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220023.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220024.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220025.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220026.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-est/P4220027.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280077.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280078.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280079.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280081.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280082.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280083.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280084.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280085.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280086.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280087.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280088.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280089.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280090.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280091.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280092.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280093.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280094.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280095.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280096.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280097.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280098.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280099.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280101.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280102.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280103.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-est/P4280104.webp",
-              "peu": ""
-            }
-          ]
-        },
-        {
           "id": "001",
           "nom": "Pedra 001",
           "fotos": [
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/001/001_talus-est_2026-04-28.webp",
+              "peu": ""
+            },
             {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-est/001/001_talus-est_2026-06-15.webp",
@@ -728,8 +381,23 @@
           "nom": "Pedra 002",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-est/002/002_talus-est_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/002/002_talus-est_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-est/002/002_talus-est_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-est/002/002_talus-est_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -739,8 +407,23 @@
           "nom": "Pedra 003",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-est/003/003_talus-est_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/003/003_talus-est_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-est/003/003_talus-est_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-est/003/003_talus-est_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -750,8 +433,23 @@
           "nom": "Pedra 004",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-est/004/004_talus-est_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/004/004_talus-est_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-est/004/004_talus-est_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-est/004/004_talus-est_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -761,8 +459,23 @@
           "nom": "Pedra 005",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-est/005/005_talus-est_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/005/005_talus-est_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-est/005/005_talus-est_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-est/005/005_talus-est_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -772,8 +485,18 @@
           "nom": "Pedra 006",
           "fotos": [
             {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/006/006_talus-est_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-est/006/006_talus-est_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-est/006/006_talus-est_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -783,8 +506,18 @@
           "nom": "Pedra 007",
           "fotos": [
             {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/007/007_talus-est_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-est/007/007_talus-est_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-est/007/007_talus-est_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -794,8 +527,18 @@
           "nom": "Pedra 008",
           "fotos": [
             {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/008/008_talus-est_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-est/008/008_talus-est_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-est/008/008_talus-est_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -805,8 +548,18 @@
           "nom": "Pedra 009",
           "fotos": [
             {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/009/009_talus-est_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-est/009/009_talus-est_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-est/009/009_talus-est_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -816,8 +569,18 @@
           "nom": "Pedra 010",
           "fotos": [
             {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/010/010_talus-est_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-est/010/010_talus-est_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-est/010/010_talus-est_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -827,8 +590,18 @@
           "nom": "Pedra 011",
           "fotos": [
             {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/011/011_talus-est_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-est/011/011_talus-est_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-est/011/011_talus-est_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -838,8 +611,23 @@
           "nom": "Pedra 012",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-est/012/012_talus-est_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/012/012_talus-est_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-est/012/012_talus-est_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-est/012/012_talus-est_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -849,8 +637,18 @@
           "nom": "Pedra 013",
           "fotos": [
             {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/013/013_talus-est_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-est/013/013_talus-est_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-est/013/013_talus-est_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -860,8 +658,18 @@
           "nom": "Pedra 014",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-est/014/014_talus-est_2026-04-25.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-est/014/014_talus-est_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-est/014/014_talus-est_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -871,8 +679,23 @@
           "nom": "Pedra 015",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-est/015/015_talus-est_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/015/015_talus-est_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-est/015/015_talus-est_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-est/015/015_talus-est_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -882,8 +705,23 @@
           "nom": "Pedra 016",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-est/016/016_talus-est_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-est/016/016_talus-est_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-est/016/016_talus-est_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-est/016/016_talus-est_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -906,368 +744,22 @@
       "nom": "Talús oest",
       "subzones": [
         {
-          "id": "to-1",
-          "nom": "Talús oest",
-          "fotos": [
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220001.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220002.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220003.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220004.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220052.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220053.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220054.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220055.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220056.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220057.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220058.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220059.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220060.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220061.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220062.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220063.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220064.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220065.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220066.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220067.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220068.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220069.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220070.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220071.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220072.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220073.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220074.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220075.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220076.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220077.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220078.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220079.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220080.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220081.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220082.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220083.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220084.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220085.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220086.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220087.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220088.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220089.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220090.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-22",
-              "fitxer": "fotos/talus-oest/P4220091.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280033.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280035.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280036.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280037.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280039.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280040.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280041.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280042.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280043.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280044.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280045.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280046.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280047.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280048.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280049.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280050.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280051.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280052.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280053.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280054.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280055.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280056.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280057.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280058.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280060.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/talus-oest/P4280061.webp",
-              "peu": ""
-            }
-          ]
-        },
-        {
           "id": "032",
           "nom": "Pedra 032",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-oest/032/032_talus-oest_2026-04-25_2.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/032/032_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/032/032_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1277,8 +769,23 @@
           "nom": "Pedra 033",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-oest/033/033_talus-oest_2026-04-25_2.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-oest/033/033_talus-oest_2026-04-28_2.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/033/033_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/033/033_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1288,8 +795,23 @@
           "nom": "Pedra 034",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-oest/034/034_talus-oest_2026-04-25_2.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-oest/034/034_talus-oest_2026-04-28_2.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/034/034_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/034/034_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1299,8 +821,23 @@
           "nom": "Pedra 035",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-oest/035/035_talus-oest_2026-04-25_2.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-oest/035/035_talus-oest_2026-04-28_2.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/035/035_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/035/035_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1310,8 +847,18 @@
           "nom": "Pedra 036",
           "fotos": [
             {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-oest/036/036_talus-oest_2026-04-28_2.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/036/036_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/036/036_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1321,8 +868,18 @@
           "nom": "Pedra 037",
           "fotos": [
             {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-oest/037/037_talus-oest_2026-04-28_2.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/037/037_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/037/037_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1332,8 +889,23 @@
           "nom": "Pedra 038",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-oest/038/038_talus-oest_2026-04-25_2.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-oest/038/038_talus-oest_2026-04-28_2.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/038/038_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/038/038_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1343,8 +915,18 @@
           "nom": "Pedra 039",
           "fotos": [
             {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-oest/039/039_talus-oest_2026-04-28_2.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/039/039_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/039/039_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1354,8 +936,18 @@
           "nom": "Pedra 040",
           "fotos": [
             {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-oest/040/040_talus-oest_2026-04-28_2.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/040/040_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/040/040_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1365,8 +957,18 @@
           "nom": "Pedra 041",
           "fotos": [
             {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-oest/041/041_talus-oest_2026-04-28_2.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/041/041_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/041/041_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1376,8 +978,18 @@
           "nom": "Pedra 042",
           "fotos": [
             {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-oest/042/042_talus-oest_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/042/042_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/042/042_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1387,8 +999,18 @@
           "nom": "Pedra 043",
           "fotos": [
             {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-oest/043/043_talus-oest_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/043/043_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/043/043_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1398,8 +1020,18 @@
           "nom": "Pedra 044",
           "fotos": [
             {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-oest/044/044_talus-oest_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/044/044_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/044/044_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1409,8 +1041,18 @@
           "nom": "Pedra 045",
           "fotos": [
             {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-oest/045/045_talus-oest_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/045/045_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/045/045_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1420,8 +1062,23 @@
           "nom": "Pedra 046",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-oest/046/046_talus-oest_2026-04-25_2.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-oest/046/046_talus-oest_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/046/046_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/046/046_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1431,8 +1088,18 @@
           "nom": "Pedra 047",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-oest/047/047_talus-oest_2026-04-25_2.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/047/047_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/047/047_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1442,8 +1109,18 @@
           "nom": "Pedra 048",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-oest/048/048_talus-oest_2026-04-25_2.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/048/048_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/048/048_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1453,8 +1130,18 @@
           "nom": "Pedra 049",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-oest/049/049_talus-oest_2026-04-25.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/049/049_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/049/049_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1464,8 +1151,18 @@
           "nom": "Pedra 050",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-oest/050/050_talus-oest_2026-04-25.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/050/050_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/050/050_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1475,8 +1172,18 @@
           "nom": "Pedra 051",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-oest/051/051_talus-oest_2026-04-25.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/051/051_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/051/051_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1486,8 +1193,23 @@
           "nom": "Pedra 052",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-oest/052/052_talus-oest_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-oest/052/052_talus-oest_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/052/052_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/052/052_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1500,6 +1222,11 @@
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/053/053_talus-oest_2026-06-15.webp",
               "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/053/053_talus-oest_2026-07-19.webp",
+              "peu": ""
             }
           ]
         },
@@ -1508,8 +1235,18 @@
           "nom": "Pedra 054",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-oest/054/054_talus-oest_2026-04-25.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/054/054_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/054/054_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1519,8 +1256,18 @@
           "nom": "Pedra 055",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-oest/055/055_talus-oest_2026-04-25.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/055/055_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/055/055_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1533,6 +1280,11 @@
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/056/056_talus-oest_2026-06-15.webp",
               "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/056/056_talus-oest_2026-07-19.webp",
+              "peu": ""
             }
           ]
         },
@@ -1543,6 +1295,11 @@
             {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/057/057_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/057/057_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1555,6 +1312,11 @@
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/058/058_talus-oest_2026-06-15.webp",
               "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/058/058_talus-oest_2026-07-19.webp",
+              "peu": ""
             }
           ]
         },
@@ -1565,6 +1327,11 @@
             {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/059/059_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/059/059_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1577,6 +1344,11 @@
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/060/060_talus-oest_2026-06-15.webp",
               "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/060/060_talus-oest_2026-07-19.webp",
+              "peu": ""
             }
           ]
         },
@@ -1587,6 +1359,11 @@
             {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/061/061_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/061/061_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1599,6 +1376,11 @@
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/062/062_talus-oest_2026-06-15.webp",
               "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/062/062_talus-oest_2026-07-19.webp",
+              "peu": ""
             }
           ]
         },
@@ -1609,6 +1391,11 @@
             {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/063/063_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/063/063_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
@@ -1621,6 +1408,11 @@
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/064/064_talus-oest_2026-06-15.webp",
               "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/064/064_talus-oest_2026-07-19.webp",
+              "peu": ""
             }
           ]
         },
@@ -1629,8 +1421,23 @@
           "nom": "Pedra 065",
           "fotos": [
             {
+              "data": "2026-04-25",
+              "fitxer": "fotos/talus-oest/065/065_talus-oest_2026-04-25.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-04-28",
+              "fitxer": "fotos/talus-oest/065/065_talus-oest_2026-04-28.webp",
+              "peu": ""
+            },
+            {
               "data": "2026-06-15",
               "fitxer": "fotos/talus-oest/065/065_talus-oest_2026-06-15.webp",
+              "peu": ""
+            },
+            {
+              "data": "2026-07-19",
+              "fitxer": "fotos/talus-oest/065/065_talus-oest_2026-07-19.webp",
               "peu": ""
             }
           ]
