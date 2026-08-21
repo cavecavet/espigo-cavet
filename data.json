@@ -1338,53 +1338,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "fons",
-      "nom": "Fons",
-      "subzones": [
-        {
-          "id": "fons-1",
-          "nom": "Fons",
-          "fotos": [
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/fons/P4280022.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/fons/P4280023.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/fons/P4280025.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/fons/P4280026.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/fons/P4280029.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/fons/P4280030.webp",
-              "peu": ""
-            },
-            {
-              "data": "2026-04-28",
-              "fitxer": "fotos/fons/P4280031.webp",
-              "peu": ""
-            }
-          ]
-        }
-      ]
     }
   ]
 }
