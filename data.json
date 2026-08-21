@@ -4,14 +4,30 @@
     "nom": "Persones a l'espigó",
     "text": "Intervenció humana al espigó.",
     "fotos": [
-      { "fitxer": "fotos/persones/persones-01.webp" },
-      { "fitxer": "fotos/persones/persones-02.webp" },
-      { "fitxer": "fotos/persones/persones-03.webp" },
-      { "fitxer": "fotos/persones/persones-04.webp" },
-      { "fitxer": "fotos/persones/persones-05.webp" },
-      { "fitxer": "fotos/persones/persones-06.webp" },
-      { "fitxer": "fotos/persones/persones-07.webp" },
-      { "fitxer": "fotos/persones/persones-08.webp" }
+      {
+        "fitxer": "fotos/persones/persones-01.webp"
+      },
+      {
+        "fitxer": "fotos/persones/persones-02.webp"
+      },
+      {
+        "fitxer": "fotos/persones/persones-03.webp"
+      },
+      {
+        "fitxer": "fotos/persones/persones-04.webp"
+      },
+      {
+        "fitxer": "fotos/persones/persones-05.webp"
+      },
+      {
+        "fitxer": "fotos/persones/persones-06.webp"
+      },
+      {
+        "fitxer": "fotos/persones/persones-07.webp"
+      },
+      {
+        "fitxer": "fotos/persones/persones-08.webp"
+      }
     ]
   },
   "zones": [
